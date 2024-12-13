@@ -1,2 +1,2 @@
 # subha-Netflix-clone
-Netflix sign-up page clone
+Netflix sign-up page clone.
